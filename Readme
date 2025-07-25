@@ -1,0 +1,31 @@
+# 📝 To-Do App (React Native + Expo + Firebase)
+
+This is a simple and beautiful **To-Do List App** built with **React Native** using **Expo** and integrated with **Google Sign-In** via **Firebase Authentication**.
+
+---
+
+## 🚀 Features
+
+- ✅ Google Sign-In using Firebase Authentication
+- ✅ Create, view, and manage to-do tasks
+- ✅ Clean and responsive UI
+- ✅ Cross-platform (Android, iOS, and Web via Expo)
+
+---
+
+## 🛠️ Tech Stack
+
+- **React Native (Expo)**
+- **Firebase Authentication**
+- **React Navigation**
+- **AsyncStorage** (for storing to-dos locally)
+
+---
+
+## 🔧 Setup Instructions
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/to-do-app.git
+cd to-do-app
